@@ -1,0 +1,39 @@
+body{
+    background-color: tomato;
+}
+.container{
+    margin: 0 auto;
+    position: relative;
+    background-color: peru;
+    border-radius: 10px;
+    top: 20px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+    color: sandybrown;
+}
+
+table{
+    width: 350px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+tr>button{
+    font-size: 20px;
+    float: right;
+    color: orangered;
+}
+tr{
+    background-color: palevioletred;
+    height: 20px;
+    border-radius: 10px;
+}
+.tehty{
+    background-color: orangered;
+}
